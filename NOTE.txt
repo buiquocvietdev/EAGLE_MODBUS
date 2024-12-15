@@ -1,0 +1,2 @@
+- Vào Arduino IDE --> File --> Preferences --> Copy đường dẫn thư mục tại "Sketchbook location"( đây là thư mục chứa các thư viện của Arduino IDE)
+- Copy thư mục "modbus-esp8266" vào thư mục chứa các thư viện của Arduino IDE
